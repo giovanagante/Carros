@@ -1,0 +1,19 @@
+il  {
+  border-right: 1px solid;
+   padding-right:  7px;
+      padding-left: 7px;
+}
+
+il a {
+  color: #FFF4F4;
+}
+.photos
+{
+  width:337px
+}
+
+ul {
+  position: absolute;
+}
+.menu-photos{padding-top: 50px}
+body {background-color: #005DFF}
