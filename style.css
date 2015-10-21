@@ -5,15 +5,26 @@ il  {
 }
 
 il a {
-  color: #FFF4F4;
+  color: #000000
 }
+
 .photos
 {
-  width:337px
+  width:337px;
+  height:250px;
+  margin-top:50px;
 }
 
 ul {
   position: absolute;
+
 }
-.menu-photos{padding-top: 50px}
-body {background-color: #005DFF}
+
+.menu-photos{
+  padding-top: 50px
+}
+
+body {
+  background-color: #98FB98
+
+}
