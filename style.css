@@ -1,11 +1,14 @@
 il  {
-  border-right: 1px solid;
-   padding-right:  7px;
-      padding-left: 7px;
+
+
 }
 
+   
 il a {
   color: #02D1FE;
+  border-right: 1px solid;
+  padding-right:  6px;
+     padding-left: 7px;
 }
 
 .photos
