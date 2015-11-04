@@ -3,7 +3,7 @@ il  {
 
 }
 
-   
+
 il a {
   color: #02D1FE;
   border-right: 1px solid;
@@ -42,4 +42,9 @@ aside.ribbon {
     width: 200px;
     transform: rotate(45deg);
     background-color: rgba(119, 116, 116, 0.63);
+}
+
+.itemmapa{
+  color : white;
+  display: list-item;
 }
