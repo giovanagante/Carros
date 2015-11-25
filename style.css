@@ -1,7 +1,4 @@
-il  {
 
-
-}
 
 
 il a {
@@ -9,8 +6,8 @@ il a {
   border-right: 1px solid;
   padding-right:  6px;
      padding-left: 7px;
+         font-size: 24px;
 }
-
 .photos
 {
   width:337px;
